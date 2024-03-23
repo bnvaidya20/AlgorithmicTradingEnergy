@@ -24,11 +24,11 @@ Ensure you have Python 3.x installed along with the following major libraries:
 - alpha_vantage
 
 ### Projects
-* `algorithmictradingenergy1.py': Energy Trading Analysis 
-* `algorithmictradingenergy2.py': Top Energy Sector Investment Analysis  
-* `algorithmictradingenergy3.py' : Stock Data Analysis with AI/ML 
-* `algorithmictradingenergy4.py': SMA-Based Trading Strategy Analysis 
-* `algorithmictradingenergy5.py': Evaluating Trading Strategies with Alpha Vantage API and SMA Analysis
+* `algorithmictradingenergy1.py`: Energy Trading Analysis 
+* `algorithmictradingenergy2.py`: Top Energy Sector Investment Analysis  
+* `algorithmictradingenergy3.py` : Stock Data Analysis with AI/ML 
+* `algorithmictradingenergy4.py`: SMA-Based Trading Strategy Analysis 
+* `algorithmictradingenergy5.py`: Evaluating Trading Strategies with Alpha Vantage API and SMA Analysis
 
 ### Setup
 
