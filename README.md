@@ -1,6 +1,9 @@
 # Algorithmic Trading in the Energy Sector
 
 This repository is dedicated to exploring algorithmic trading strategies within the energy sector. 
+
+Algorithmic trading, also known as automated trading or algo-trading, involves using computer programs that execute trades based on predefined algorithms. These algorithms dictate when to buy or sell assets, aiming to generate profits at speeds and volumes unattainable by human traders.
+
 Utilizing historical stock data, the project applies Simple Moving Average (SMA) trading strategies to analyze and predict stock performances of major energy companies.
 
 ## Project Highlights
