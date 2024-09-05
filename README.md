@@ -34,5 +34,5 @@ Ensure you have Python 3.x installed along with the following major libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-link.git
+   git clone https://github.com/bnvaidya20/AlgorithmicTradingEnergy.git
    cd algorithmictradingenergy
